@@ -1,0 +1,53 @@
+body{
+    background:linear-gradient(to right,#000000,#1c1c1c);
+    color: white;
+    font-family: 'Cinzel',serif;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-size: 2.5em;
+    color: gold;
+    text-shadow: 0 0 10px;
+}
+p{
+    font-size: 1.0em;
+    color: red;
+    text-shadow: 0 0 5px;
+}
+#div{
+    height: 50;
+    width: 20;
+    color: #1c1c1c;
+background-color: rgb(116, 24, 24);
+border:solid 10px
+}
+.video-container{
+    margin: 30px auto; 
+    border: 10px solid red;
+    padding: 10px;
+    box-shadow: 0 0 20px;
+    width: 80%;
+    max-width: 800px;
+}
+video{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+button{
+    margin-top: 20px;
+
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    
+}
+span{
+    background-color: brown;
+}
+footer{
+    background-color: brown ;
+}
